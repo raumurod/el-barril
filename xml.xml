@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bar nombre="El Barril">
+  <ubicacion>
+    <direccion>Calle de las Tapas, 123</direccion>
+    <ciudad>Madrid</ciudad>
+    <telefono>+34 600 123 456</telefono>
+    <email>contacto@elbarril.com</email>
+  </ubicacion>
+
+  <secciones>
+    <seccion id="tapas" nombre="Tapas">
+      <producto>
+        <nombre>Patatas Bravas</nombre>
+        <descripcion>Picantes y sabrosas con salsa especial</descripcion>
+      </producto>
+      <producto>
+        <nombre>Calamares</nombre>
+        <descripcion>Fritos al momento, crujientes</descripcion>
+      </producto>
+      <producto>
+        <nombre>Croquetas</nombre>
+        <descripcion>De jamón ibérico, cremosas por dentro</descripcion>
+      </producto>
+      <producto>
+        <nombre>Tortilla Española</nombre>
+        <descripcion>Con cebolla y huevo justo</descripcion>
+      </producto>
+      <producto>
+        <nombre>Pimientos del Padrón</nombre>
+        <descripcion>¡Unos pican y otros no!</descripcion>
+      </producto>
+    </seccion>
+
+    <seccion id="bebidas" nombre="Bebidas">
+      <producto>
+        <nombre>Cerveza Artesanal</nombre>
+        <precio>2.50</precio>
+      </producto>
+      <producto>
+        <nombre>Copa de Vino</nombre>
+        <precio>3.00</precio>
+      </producto>
+      <producto>
+        <nombre>Mojito</nombre>
+        <precio>5.50</precio>
+      </producto>
+      <producto>
+        <nombre>Ron Cola</nombre>
+        <precio>4.00</precio>
+      </producto>
+      <producto>
+        <nombre>Gin Tonic</nombre>
+        <precio>6.00</precio>
+      </producto>
+    </seccion>
+  </secciones>
+</bar>
